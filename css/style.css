@@ -195,7 +195,7 @@ header {
     top: 0;
     left: 0;
     right: 0;
-    transition: .5s ease-in-out;
+    /*transition: .5s ease-in-out;*/
     z-index: 999
 }
 
@@ -1801,7 +1801,7 @@ footer {
 }
 
 .blog-details a {
-    color: #7c7e83;
+    color: #c7c5c5;
     text-decoration: none;
 }
 
